@@ -16,8 +16,9 @@
 
 <h3><b>🙆‍♂️ Profile 🙆‍♂️</b></h3>
 
-###### Gachon University, Department of Software & Economic
-###### Interested in Probelm Solving, Competitive Programming, Machine Learning
+###### Gachon University, Department of Software.
+###### I have a major in software(CS) with a minor in economics.
+###### Interested in Probelm Solving, Competitive Programming, Machine Learning.
 
 <br>
 <h3><b>🏆 Cards 🏆</b></h3>
