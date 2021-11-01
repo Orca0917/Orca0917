@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=240&section=header&text=Jongmoon%20Ryu%20🐋&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=240&section=header&text=Jongmoon%20Ryu%20🐋&fontSize=50)
 
 <h3><b>🛠 Skills 🛠</b></h3>
 <p>
