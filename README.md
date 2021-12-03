@@ -24,5 +24,6 @@
 <h3><b>🏆 Cards 🏆</b></h3>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=0917jong)](https://solved.ac/0917jong/)
-[![CodeForces Profile](https://cf.leed.at?id={dbwhdans})](https://codeforces.com/profile/{dbwhdans})
+
+[![CodeForces Profile](https://cf.leed.at?id=dbwhdans)](https://codeforces.com/profile/dbwhdans)
 
