@@ -1,6 +1,6 @@
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:784bd7,100:00c2d7&height=240&section=header&text=Jongmoon%20Ryu%20🦈&fontColor=ffffff&fontSize=50)
 
+<div align = "center">
 <h3><b>🛠 Skills 🛠</b></h3>
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
@@ -12,7 +12,6 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp
 </p>
 <br>
-
 
 <h3><b>🙆‍♂️ Profile 🙆‍♂️</b></h3>
 
@@ -26,4 +25,4 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=0917jong)](https://solved.ac/0917jong/)
 
 [![CodeForces Profile](https://cf.leed.at?id=dbwhdans)](https://codeforces.com/profile/dbwhdans)
-
+</div>
