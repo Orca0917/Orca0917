@@ -26,4 +26,6 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=0917jong)](https://solved.ac/0917jong/)
 
 [![CodeForces Profile](https://cf.leed.at?id=dbwhdans)](https://codeforces.com/profile/dbwhdans)
+
+![killerWhale's GitHub stats](https://github-readme-stats.vercel.app/api?username=killerWhale0917&theme=gradient&show_icons=true&bg_color=60,784bd7,00c2d7&title_color=fff&text_color=fff&icon_color=fff)
 </div>
