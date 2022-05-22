@@ -1,8 +1,31 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=0:784bd7,100:00c2d7&height=240&section=header&text=Jongmoon%20Ryu%20🦈&fontColor=ffffff&fontSize=50)
 -->
 
-<div align = "center">
-<h3><b>🛠 Skills 🛠</b></h3>
+## 🙋‍♂️ Introduce
+
+### 🎓 Education
+
+가천대학교 소프트웨어학과 2018.03 ~ 2025.02 (졸업예정, GPA: 4.03/4.5), 경영학 복수전공
+
+영국 Burton and South Derbyshire College 단기 해외 연수(‘20.2)
+
+네이버 부스트캠프 AI Tech 3기 추천시스템 2022.01 ~ 2022.06
+
+### 📨 Contact
+
+Email  | 0917jong@gmail.com
+
+CV     | [Curriculum Vitae](https://obtainable-turnover-bef.notion.site/Ryu-Jongmoon-df7118b559544bda93aca3070b6dbcff)
+
+### 🖥️ Channel
+
+Blog: [GitHub Page(Blog)](https://killerwhale0917.github.io/)
+
+### 🎯 Interest
+
+알고리즘 문제풀이, 프로그래밍 경진대회, 인공지능(추천시스템)
+
+### 🛠 Skills
 <p>
 <!-- <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp -->
 <!-- <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp -->
@@ -15,14 +38,7 @@
 </p>
 <br>
 
-<h3><b>🙆‍♂️ Profile 🙆‍♂️</b></h3>
-
-###### Gachon University, Department of Software.
-###### I have a major in software(CS) with a minor in economics.
-###### Interested in Probelm Solving, Competitive Programming, Machine Learning.
-
-<br>
-<h3><b>🏆 Cards 🏆</b></h3>
+## 🏆 Cards
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FkillerWhale0917&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -31,4 +47,3 @@
 <!-- [![CodeForces Profile](https://cf.leed.at?id=dbwhdans)](https://codeforces.com/profile/dbwhdans) -->
 
 ![killerWhale's GitHub stats](https://github-readme-stats.vercel.app/api?username=killerWhale0917&theme=gradient&show_icons=true&bg_color=60,784bd7,00c2d7&title_color=fff&text_color=fff&icon_color=fff)
-</div>
