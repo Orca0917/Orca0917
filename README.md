@@ -15,7 +15,7 @@
 
 Email  | 0917jong@gmail.com
 
-CV     | [Curriculum Vitae](https://obtainable-turnover-bef.notion.site/Ryu-Jongmoon-df7118b559544bda93aca3070b6dbcff)
+<!-- CV     | [Curriculum Vitae](https://obtainable-turnover-bef.notion.site/Ryu-Jongmoon-df7118b559544bda93aca3070b6dbcff) -->
 
 ### 🖥️ Channel
 
