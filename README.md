@@ -1,6 +1,3 @@
-<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=0:784bd7,100:00c2d7&height=240&section=header&text=Jongmoon%20Ryu%20🦈&fontColor=ffffff&fontSize=50)
--->
-
 ## 🙋‍♂️ Introduce
 
 ### 🎓 Education / Experiences
