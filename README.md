@@ -17,7 +17,7 @@
 ### 🖥️ Channel
 
 - Blog1 : [Tistory: devmoon](https://killerwhale0917.tistory.com/)
-- Blog2 : [GitHub Page(Blog / Closed)](https://killerwhale0917.github.io/)
+- Blog2 : [GitHub Page(Blog / Closed)](https://Orca0917.github.io/)
 
 ### 🎯 Interest
 
