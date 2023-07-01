@@ -2,11 +2,13 @@
 
 ### 🎓 Education / Experiences
 
-- Gachon Univ. Dept of Software, 2018.03 ~ 2025.02 (Expected graduation date)
+- Gachon Univ. Dept of Software, '18.03 ~ '25.02 (Expected graduation date)
 
 - United Kingdom, Burton and South Derbyshire College ('20.2, Language Course)
 
 - Naver Boostcamp AI Tech 3rd, Recommender System ('22.01 ~ '22.06)
+
+- Smilegate AI Membership, Personalized TTS for Audio book ('23.07 ~ '23.11)
 
 ### 📨 Contact
 
