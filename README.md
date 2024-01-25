@@ -10,6 +10,8 @@
 
 - Smilegate AI Membership, Personalized TTS for Audio book ('23.07 ~ '23.11)
 
+- Australia (Melbourne), LaTrobe Univ. / Monash Univ. ('24.01 ~ '24.02)
+
 ### 📨 Contact
 
 - Email  | 0917jong@gmail.com
