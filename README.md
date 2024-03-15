@@ -4,7 +4,7 @@ Thank you for visiting. I am Jongmoon Ryu, a senior majoring in Software Enginee
 
 <br>
 
-![0917jong@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[![0917jong@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:0917jong@gmail.com)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%A2%85%EB%AC%B8-%EC%9C%A0-928512268/)
 [![](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://orca0917.github.io/)
 
