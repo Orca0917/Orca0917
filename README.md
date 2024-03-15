@@ -1,57 +1,48 @@
-## 🙋‍♂️ Introduce
+## 🙋‍♂️ Jongmoon Ryu
 
-### 🎓 Education / Experiences
+Thank you for visiting. I am Jongmoon Ryu, a senior majoring in Software Engineering at the AI.Software Department of Gachon University. Currently, I am studying and exploring deep learning-based speech synthesis (TTS) systems, and I have a keen interest in furthering my expertise in this area. If you would like to know more about me, please refer to my [CV](https://github.com/Orca0917/Orca0917/blob/main/Curriculum_Vitae__github_.pdf)(the picture is temporary), [Blog #1](https://killerwhale0917.tistory.com/) and [Blog #2](https://Orca0917.github.io/).
 
-- Gachon Univ. Dept of Software, '18.03 ~ '25.02 (Expected graduation date)
+<br>
 
-- United Kingdom, Burton and South Derbyshire College ('20.2, Language Course)
+![0917jong@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%A2%85%EB%AC%B8-%EC%9C%A0-928512268/)
+[![](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://orca0917.github.io/)
 
-- Naver Boostcamp AI Tech 3rd, Recommender System ('22.01 ~ '22.06)
+<br>
 
-- Smilegate AI Membership, Personalized TTS for Audio book ('23.07 ~ '23.11)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FkillerWhale0917&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=0917jong)](https://solved.ac/0917jong)
 
-- Australia (Melbourne), LaTrobe Univ. / Monash Univ. ('24.01 ~ '24.02)
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=0917jong)](https://solved.ac/0917jong/) -->
 
+<!-- ![0917jong's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=0917jong) -->
+
+
+<!--
 ### 📨 Contact
-
 - Email  | 0917jong@gmail.com
+- CV     | [Curriculum Vitae](https://github.com/Orca0917/Orca0917/blob/main/Curriculum_Vitae__github_.pdf)
 
-<!-- CV     | [Curriculum Vitae](https://obtainable-turnover-bef.notion.site/Ryu-Jongmoon-df7118b559544bda93aca3070b6dbcff) -->
+<br>
 
 ### 🖥️ Channel
-
 - Blog1 : [Tistory: devmoon](https://killerwhale0917.tistory.com/)
 - Blog2 : [GitHub Page: moonai](https://Orca0917.github.io/)
 
+<br>
+
 ### 🎯 Interest
+- Problem Solving (Algorithm)
+- Speech Synthesis using ML/DL
+- Recommender System using ML/DL
 
-- Problem Solving, Competitive Programming  
-
-- Machine Learning, Deep Learning, Recommender System, Data Engineering
+<br>
 
 ### 🛠 Skills
-<p>
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
-<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
-<br>
-<!-- <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">  -->
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-<!-- <br> -->
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-</p>
-<br>
+- Python, Java, C/C++
+- DL with PyTorch
+
 
 ## 🏆 Cards
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FkillerWhale0917&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=0917jong)](https://solved.ac/0917jong/) -->
-![0917jong's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=0917jong)
-
-<!-- [![CodeForces Profile](https://cf.leed.at?id=dbwhdans)](https://codeforces.com/profile/dbwhdans) -->
-
-<!-- ![killerWhale's GitHub stats](https://github-readme-stats.vercel.app/api?username=killerWhale0917&theme=gradient&show_icons=true&bg_color=60,784bd7,00c2d7&title_color=fff&text_color=fff&icon_color=fff) -->
+-->
