@@ -4,18 +4,19 @@ Thank you for visiting. I am Jongmoon Ryu, a senior majoring in Software Enginee
 
 <br>
 
-[![0917jong@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:0917jong@gmail.com)
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%A2%85%EB%AC%B8-%EC%9C%A0-928512268/)
-[![](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://orca0917.github.io/)
+<div align="center">
+  
+  [![0917jong@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:0917jong@gmail.com)
+  [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%A2%85%EB%AC%B8-%EC%9C%A0-928512268/)
+  [![](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://orca0917.github.io/)
+  [![](https://img.shields.io/badge/Tistory-000000.svg?style=for-the-badge&logo=Tistory&logoColor=white)](https://killerwhale0917.tistory.com/)
+  
+  <br>
+  
+  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FkillerWhale0917&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=0917jong)](https://solved.ac/0917jong)
 
-<br>
-
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FkillerWhale0917&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=0917jong)](https://solved.ac/0917jong)
-
-<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=0917jong)](https://solved.ac/0917jong/) -->
-
-<!-- ![0917jong's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=0917jong) -->
+</div>
 
 
 <!--
