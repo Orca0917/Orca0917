@@ -1,6 +1,6 @@
 ## 🙋‍♂️ Jongmoon Ryu
 
-Thank you for visiting. I am Jongmoon Ryu, a senior majoring in Software Engineering at the AI.Software Department of Gachon University. Currently, I am studying and exploring deep learning-based speech synthesis (TTS) systems, and I have a keen interest in furthering my expertise in this area. If you would like to know more about me, please refer to my [CV](https://github.com/Orca0917/Orca0917/blob/main/CV_github_orca0917.pdf), [Blog #1](https://killerwhale0917.tistory.com/) and [Blog #2](https://Orca0917.github.io/).
+Thank you for visiting. I am Jongmoon Ryu, a graduate student in the Speech and Audio Processing Lab(SAPL) at the EECS of Gwangju Institute of Science and Technology(GIST). Currently, I am studying and exploring deep learning-based speech synthesis (TTS) systems, and I have a keen interest in furthering my expertise in this area. If you would like to know more about me, please refer to my [CV](https://github.com/Orca0917/Orca0917/blob/main/CV_github_orca0917.pdf), [Blog #1](https://killerwhale0917.tistory.com/) and [Blog #2](https://Orca0917.github.io/).
 <br>
 
 <div align="center">
